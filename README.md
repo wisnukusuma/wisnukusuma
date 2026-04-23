@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and Embedded System
 - 🌱 I’m currently learning SLAM, Computer Vision, Advanced FPGA design, and Embedded System
 - 💞️ I’m looking to collaborate on SLAM Project
-- 📫 How to reach me kusumawisnu1@gmail.com
+- 📫 Reach me to kusumawisnu1@gmail.com
 
 <!---
 wisnukusuma/wisnukusuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
